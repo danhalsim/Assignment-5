@@ -8,11 +8,11 @@ $(function () {
     $('.saveBtn').on('click', function () {
       $('textarea').each(function () {
         let input = $(this).val(); 
-        let hour = $(this).parent().attr('id'); 
+        let hour = $(this).parent().attr('id');
         localStorage.setItem(hour, input);
       });
     });
-  
+
     // apply the past, present, or future class to each time block by comparing the id to the current hour
     function updateTimeClass() {
       let currentTime = dayjs().hour();
@@ -27,7 +27,7 @@ $(function () {
         else {
           $(this).addClass('future');
         }
-      })
+      });
     }
     updateTimeClass();
     
