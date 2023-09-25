@@ -33,17 +33,6 @@ Home page:
 
 Tutorials:
 
-AskBCS tutors for their help
-
-Storing Objects with Local Storage in JavaScript
-
-https://www.youtube.com/watch?v=AUOzvFzdIk4
-
-Local Storage Explained In 10 min | Javascript
-
-https://www.youtube.com/watch?v=fYTTUBa-lPc
-
-Help from a friend with formatting JavaScript code lines 151-158
 
 ## License
 
