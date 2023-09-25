@@ -10,20 +10,24 @@ The purpose of this project website is to demonstrate the use of functions and l
 
 Working on this project helped me learn how to create a website that is responsive to user input. It also helped me learn how to implement local storage in order to store the user's scores from the quiz.
 
+-
+
+This is my fifth assignment project for the UCI Coding Bootcamp.
+
+This website is a simple calendar application that allows a user to save events for each hour of a typical working day (9am–5pm).
+
+The purpose of this project is to demonstrate the use of dynamically updated HTML and CSS powered by jQuery.
+
+Working on this project helped me learn the basics of using jQuery, as well as how to use an API. I also learned how to use the "this" keyword in JavaScript.
+
 ## Usage
 
 Browse the website and repository as desired.
 
-Link: https://danhalsim.github.io/Assignment-4/
+Link: https://danhalsim.github.io/Assignment-5/
 
 Home page
-![website screenshot](assets\screenshot-home.png)
-
-Question and answer choices
-![website screenshot](assets\screenshot-question.png)
-
-End of the quiz
-![website screenshot](assets\screenshot-end.png)
+![website screenshot](assets\project 5 screenshot home page.png)
 
 ## Credits
 
