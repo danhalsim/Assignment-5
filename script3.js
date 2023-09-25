@@ -14,14 +14,14 @@ $(function () {
     });
 
     // apply the past, present, or future class to each time block by comparing the id to the current hour
-    function updateTimeClass() {
+    const updateTimeClass = () => {
       let currentTime = dayjs().hour();
       $('.time-block').each(function () {
         let time = parseInt($(this).attr('id').split('-')[1]);
         if (time < currentTime) {
           $(this).addClass('past');
         }
-        else if (time == currentTime) {
+        else if (time === currentTime) {
           $(this).addClass('present');
         }
         else {
@@ -38,6 +38,13 @@ $(function () {
     });
     
     // display the current date in the header
-    let currentDate = dayjs().format('dddd, MMMM D, YYYY');
-    $('#currentDay').text(currentDate);
+    $('#currentDay').text(dayjs().format('dddd, MMMM D, YYYY'));
+
+    // something extra for fun: event listener for clear all button
+    $('#clearButton').on('click', function () {
+      $('textarea').each(function () {
+        $(this).val('');
+      });
+    });
+
   });
