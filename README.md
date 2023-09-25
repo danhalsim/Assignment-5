@@ -26,6 +26,7 @@ Browse the website and repository as desired.
 
 Link: https://danhalsim.github.io/Assignment-5/
 
+Home page:
 ![Home page](assets/project%205%20screenshot%20home%20page.png)
 
 ## Credits
