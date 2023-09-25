@@ -1,5 +1,3 @@
-// MY CODE
-
 // jQuery call to ensure that the code isn't run until the browser has finished rendering all the elements
 $(function () {
 
