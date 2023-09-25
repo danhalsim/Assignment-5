@@ -30,8 +30,8 @@ jQuery documentation
 UCI Coding Bootcamp Module 5 page for the project description used in this README.
 
 UCI Coding Bootcamp Xpert Learning Assistant for help with JavaScript.
-- how to use "this"
-- how to add and remove classes
+- how to use "this" (lines 8, 9)
+- how to add and remove classes (lines 18, 20)
 
 ## License
 
