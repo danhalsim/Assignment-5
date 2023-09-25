@@ -31,8 +31,13 @@ Home page:
 
 ## Credits
 
-Tutorials:
+Day.js documentation
+- https://day.js.org/docs/en/installation/installation
 
+jQuery documentation
+- https://api.jquery.com/
+
+UCI Coding Bootcamp
 
 ## License
 
