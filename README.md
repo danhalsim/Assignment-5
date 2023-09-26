@@ -8,7 +8,7 @@ This project is a simple calendar application website that allows a user to save
 
 The purpose of this project is to demonstrate the use of dynamically updated HTML and CSS powered by jQuery, as well as the use the Day.js API to get date and time data.
 
-Working on this project helped me learn the basics of using jQuery, as well as how to use an API. I also learned how to use the "this" keyword in JavaScript.
+Working on this project helped me learn the basics of using jQuery, as well as how to use an API. I also learned how to use the "this" keyword and how to update a class in the HTML through JavaScript.
 
 ## Usage
 
